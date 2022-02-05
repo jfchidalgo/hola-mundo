@@ -1,5 +1,5 @@
 # Hola mundo
-Mi primer reporistorio.
+Mi primer repositorio.
 
 Autor: Francisco Castillo
 Fecha: 05/02/2022
